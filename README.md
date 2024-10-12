@@ -1,1 +1,1 @@
-# hospital_management_system
+A hospital management system in java. It also has GUI.It has many classes and it can perform the functionality of adding,discharging a patient. Keeping a track of illness of patients. Couting the patients and their blood groups etc. It also has interfaces. 
